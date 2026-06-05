@@ -58,10 +58,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arnavmehar-5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" alt="Arnavmehar-5's GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnavmehar-5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6" alt="Top Languages" />
-
 <img src="https://streak-stats.demolab.com/?user=Arnavmehar-5&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak" />
 
 </div>
