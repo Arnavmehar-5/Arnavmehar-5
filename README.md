@@ -99,8 +99,9 @@
 
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arnavmehar-5&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Arnavmehar-5" style="padding-right:20px;" />
+  <img src="https://raw.githubusercontent.com/Arnavmehar-5/Arnavmehar-5/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation">
 </p>
 
 <div align="center">
