@@ -24,6 +24,9 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arnavmehar-5&style=flat-square&color=00FF41" alt="Profile views"/>
+</p> 
 </div>
 
 ---
@@ -89,8 +92,10 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arnavmehar-5&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
-<img src="https://raw.githubusercontent.com/Arnavmehar-5/Arnavmehar-5/output/snake.svg" alt="Snake animation" />
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Arnavmehar-5/Arnavmehar-5/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation">
+</p>
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnavmehar/)
@@ -99,10 +104,6 @@
 
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Arnavmehar-5/Arnavmehar-5/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation">
-</p>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+%F0%9F%99%8F+%7C+Open+to+collaborations!" alt="footer"/>
