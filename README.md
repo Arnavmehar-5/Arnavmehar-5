@@ -24,9 +24,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arnavmehar-5&style=flat-square&color=00FF41" alt="Profile views"/>
-</p> 
 </div>
 
 ---
@@ -106,6 +103,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
+
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arnavmehar-5&style=flat-square&color=00FF41" alt="Profile views"/>
+</p> 
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+%F0%9F%99%8F+%7C+Open+to+collaborations!" alt="footer"/>
 </div>
 
