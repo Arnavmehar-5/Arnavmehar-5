@@ -54,6 +54,12 @@
 
 ---
 
+## 💡 Top Languages
+
+<p align="center">
+  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=Arnavmehar-5&layout=donut&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
+</p>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -83,7 +89,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arnavmehar-5&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
-
+<img src="https://raw.githubusercontent.com/Arnavmehar-5/Arnavmehar-5/output/snake.svg" alt="Snake animation" />
 ---
 <div align="center">
 
@@ -91,6 +97,17 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arnavmehar-5)
 [![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnav.mehar05@gmail.com)
 
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arnavmehar-5&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Arnavmehar-5" style="padding-right:20px;" />
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+%F0%9F%99%8F+%7C+Open+to+collaborations!" alt="footer"/>
+</div>
+
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&customColorList=14,16,19,89dceb" />
 </div>
 
 ---
