@@ -60,6 +60,18 @@
 
 <img src="https://streak-stats.demolab.com/?user=Arnavmehar-5&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak" />
 
+<br/><br/>
+
+<div align="center">
+
+
+![Stars](https://img.shields.io/github/stars/Arnavmehar-5?style=for-the-badge&logo=github&label=Total%20Stars&color=f1c40f)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/Arnavmehar-5?style=for-the-badge&logo=github&label=Followers&color=a78bfa)
+&nbsp;
+![Repos](https://img.shields.io/badge/Public%20Repos-check%20profile-06b6d4?style=for-the-badge&logo=github)
+
+
 </div>
 
 ---
@@ -82,13 +94,3 @@
 </div>
 
 ---
-
-## 👁️ Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arnavmehar-5&style=flat-square&color=00FF41" alt="Profile views"/>
-</p>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+%F0%9F%99%8F+%7C+Open+to+collaborations!" alt="footer"/>
-</div>
