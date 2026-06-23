@@ -89,10 +89,11 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arnavmehar-5&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Arnavmehar-5/Arnavmehar-5/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation">
-</p>
+<!-- Snake grid -->
 
+<!-- Contribution -->
+<img src="https://raw.githubusercontent.com/Arnavmehar-5/Arnavmehar-5/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="98%" />
+<!-- -- -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
