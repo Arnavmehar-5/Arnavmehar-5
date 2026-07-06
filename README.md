@@ -54,18 +54,19 @@
 
 ---
 
-## 💡 Top Languages
-
-<p align="center">
-  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=Arnavmehar-5&layout=donut&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
-</p>
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Arnavmehar-5&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak" />
+<p align="center">
 
+<img src="https://github-stats-extended.vercel.app/api?username=Arnavmehar-5&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Arnavmehar-5&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
 <br/><br/>
 
 <div align="center">
