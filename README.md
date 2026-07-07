@@ -58,12 +58,13 @@
 
 <div align="center">
 
+
 <p align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=Arnavmehar-5&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Arnavmehar-5&layout=compact&theme=tokyonight"/>
-
+  <a href="#">
+    <img src="https://github-readme-stats.shion.dev/api?username=Arnavmehar-5&show_icons=true&bg_color=000000&title_color=00ff99&icon_color=00ff99&text_color=ffffff&hide_border=true">
+    <img src="https://streak-stats.demolab.com?user=Arnavmehar-5&background=000000&ring=00ff99&fire=00ff99&currStreakLabel=00ff99&sideLabels=ffffff&sideNums=ffffff&dates=ffffff&currStreakNum=ffffff&hide_border=true">
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Arnavmehar-5&layout=compact&bg_color=000000&title_color=00ff99&text_color=ffffff&hide_border=true">
+  </a>
 </p>
 
 ---
