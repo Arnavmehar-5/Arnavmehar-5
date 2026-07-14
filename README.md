@@ -96,10 +96,24 @@
 <!-- Contribution -->
 <img src="https://raw.githubusercontent.com/Arnavmehar-5/Arnavmehar-5/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="98%" />
 <!-- -- -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
+<br/><br/>
+
+## LeetCode Stats 🧩
 
 <div align="center">
 
+<img src="https://leetcard.jacoblin.cool/Arnavmehar-5?theme=dark&ext=heatmap" alt="LeetCode Stats" />
+
+</div>
+<!-- -- -->
+
+<br/><br/>
+
+<!-- Profile Views -->
+
+<div align="center">
+  
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arnavmehar-5&style=flat-square&color=00FF41" alt="Profile views"/>
 </p> 
