@@ -70,18 +70,6 @@
 ---
 <br/><br/>
 
-<div align="center">
-
-
-![Stars](https://img.shields.io/github/stars/Arnavmehar-5?style=for-the-badge&logo=github&label=Total%20Stars&color=f1c40f)
-&nbsp;
-![Followers](https://img.shields.io/github/followers/Arnavmehar-5?style=for-the-badge&logo=github&label=Followers&color=a78bfa)
-&nbsp;
-![Repos](https://img.shields.io/badge/Public%20Repos-check%20profile-06b6d4?style=for-the-badge&logo=github)
-
-
-</div>
-
 ---
 
 ## 📈 Contribution Activity
@@ -103,7 +91,7 @@
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/Arnavmehar-5?theme=dark&ext=heatmap" alt="LeetCode Stats" />
+<img src="https://leetcard.jacoblin.cool/Arnavmehar-5?theme=light&ext=heatmap" alt="LeetCode Stats" />
 
 </div>
 <!-- -- -->
