@@ -91,7 +91,7 @@
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/Arnavmehar-5?theme=light&ext=heatmap" alt="LeetCode Stats" />
+<img src="https://leetcard.jacoblin.cool/Arnavmehar-5?theme=dark&ext=heatmap" alt="LeetCode Stats" />
 
 </div>
 <!-- -- -->
