@@ -72,13 +72,6 @@
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arnavmehar-5&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-
-</div>
 <!-- Snake grid -->
 
 <!-- Contribution -->
