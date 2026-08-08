@@ -5,9 +5,9 @@
 <p>
   🎓 <strong>B.Tech Computer Science (2nd Year)</strong> @ SRM University AP, Amaravati <br/>
   💡 Passionate about building clean web experiences and learning every day <br/>
-  ⚡ Currently grinding DSA in C++, exploring Web Dev <br/> 
+  ⚡ Currently grinding DSA in C++, exploring Web Dev  <br/> 
   
-  🎓  Member @Singularity Advanced Student Lab 
+  ### 👨‍💻 Member @Singularity Advanced Student Lab 
 </p>
 <p>
 
