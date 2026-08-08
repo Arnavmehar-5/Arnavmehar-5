@@ -5,10 +5,16 @@
 <p>
   🎓 <strong>B.Tech Computer Science (2nd Year)</strong> @ SRM University AP, Amaravati <br/>
   💡 Passionate about building clean web experiences and learning every day <br/>
-  ⚡ Currently grinding DSA in C++, exploring Web Dev 
+  ⚡ Currently grinding DSA in C++, exploring Web Dev <br/> 
+  
+  🎓  Member @Singularity Advanced Student Lab 
 </p>
-
 <p>
+
+  [![Website](https://img.shields.io/badge/Website-singularitylabsrmap.space-7C3AED?style=for-the-badge&logo=globe&logoColor=white)](https://www.singularitylabsrmap.space/)
+
+  </br>
+  
   <a href="https://linkedin.com/in/arnavmehar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
