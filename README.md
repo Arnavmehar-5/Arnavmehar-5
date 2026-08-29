@@ -63,8 +63,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-
 <p align="center">
   <a href="#">
     <img src="https://github-readme-stats.shion.dev/api?username=Arnavmehar-5&show_icons=true&bg_color=000000&title_color=00ff99&icon_color=00ff99&text_color=ffffff&hide_border=true">
