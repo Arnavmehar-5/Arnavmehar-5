@@ -5,9 +5,9 @@
 <p>
   🎓 <strong>B.Tech Computer Science (2nd Year)</strong> @ SRM University AP, Amaravati <br/>
   💡 Passionate about building clean web experiences and learning every day <br/>
-  ⚡ Currently grinding DSA in C++, exploring Web Dev  <br/> 
   
-  ### 👨‍💻 Member @Singularity Advanced Student Lab 
+  
+  ###  Member @Singularity Advanced Student Lab 
 </p>
 <p>
 
@@ -34,7 +34,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -52,15 +52,16 @@
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
-- 🔧 Backend Development with Node.js
-- 🔀 Git & GitHub Workflows
-- 📐 Data Structures and Algorithms in C++
+- Exploring fields like AI, ML
+- Data Structures and Algorithms in C++
+- Backend Development
+- Arduino Pilot- Drones
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 <p align="center">
@@ -80,7 +81,7 @@
 ---
 <br/><br/>
 
-## LeetCode Stats 🧩
+## LeetCode Stats 
 
 <div align="center">
 
