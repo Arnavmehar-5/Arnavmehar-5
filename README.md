@@ -2,8 +2,6 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=650&lines=Learning+by+Building+%F0%9F%9B%A0%EF%B8%8F;Exploring+Cool+Stuff+Online+%F0%9F%8C%90;Web+%E2%80%A2+Systems+%E2%80%A2+Open+Source)](https://git.io/typing-svg)
-
 <p>
   🎓 <strong>B.Tech CSE (2nd Year)</strong> · Developer by practice, learner by habit <br/>
   💡 I explore the internet, break things, rebuild them, and ship what I learn <br/>
